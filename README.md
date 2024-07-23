@@ -1,5 +1,5 @@
 # Taskify
-** Taskify is a productivity application designed to help you organize your tasks, track progress, receive personalized improvement suggestions, and collaborate with your team in real-time. **
+**Taskify is a productivity application designed to help you organize your tasks, track progress, receive personalized improvement suggestions, and collaborate with your team in real-time.**
 
 ## Features
 > Task Tracking: Monitor tasks with graph-based analytics for clear progress.
